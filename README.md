@@ -30,7 +30,7 @@ Una aplicación de Android que [describe lo que hace]. Incluye características 
 
 2. instala nodemon.
 
-3. Agrege al package.json   "dev":"nodemon --watch  index.js".
+3. Agrege al package.json -> ` "dev":"nodemon --watch  index.js"`.
 
 
 ## Contribución
