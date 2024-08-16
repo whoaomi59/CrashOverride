@@ -12,7 +12,7 @@ Una aplicación de Android que [describe lo que hace]. Incluye características 
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/whoaomi59/CrashOverride.git
     ```
 
 2. Abre el proyecto en Android Studio.
@@ -26,11 +26,11 @@ Una aplicación de Android que [describe lo que hace]. Incluye características 
 
 ## Uso
 
-1. Abre la aplicación en tu dispositivo Android o emulador.
+1. Instala la paqueteria de node con npm i.
 
-2. [Instrucciones sobre cómo usar la aplicación, si es necesario].
+2. instala nodemon.
 
-3. [Capturas de pantalla o ejemplos de uso].
+3. Agrege al package.json   "dev":"nodemon --watch  index.js".
 
 
 ## Contribución
