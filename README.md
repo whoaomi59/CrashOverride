@@ -26,7 +26,7 @@ Una App Capas de incrustar Meterpreter en Android.
 
 ## Uso
 
-1. Instala la paqueteria de node con npm i.
+1. Instala la paqueteria de node con  -> `npm  i `.
 
 2. instala nodemon -> `npm  i nodemon -d`.
 
