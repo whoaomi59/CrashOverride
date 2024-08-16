@@ -28,7 +28,7 @@ Una aplicación de Android que [describe lo que hace]. Incluye características 
 
 1. Instala la paqueteria de node con npm i.
 
-2. instala nodemon.
+2. instala nodemon -> `npm  i nodemon -d`.
 
 3. Agrege al package.json -> ` "dev":"nodemon --watch  index.js"`.
 
@@ -67,5 +67,5 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICEN
 
 ## Créditos
 
-- [Whoaomi](enlace al perfil o sitio web)
-- [Nombre del proyecto o biblioteca utilizada](enlace al proyecto)
+- [Whoaomi](https://github.com/whoaomi59)
+- [Java-8](https://github.com/whoaomi59/CrashOverride.git)
