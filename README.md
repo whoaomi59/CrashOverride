@@ -4,7 +4,7 @@
 </p>
 
 ## Descripción
-Una aplicación de Android que [describe lo que hace]. Incluye características como [lista de características].
+Una App Capas de inclustar Meterpreter en Android.
 
 
 ## Instalación
@@ -68,4 +68,4 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICEN
 ## Créditos
 
 - [Whoaomi](https://github.com/whoaomi59)
-- [Java-8](https://github.com/whoaomi59/CrashOverride.git)
+- [Java-8](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
