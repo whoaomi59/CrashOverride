@@ -4,7 +4,7 @@
 </p>
 
 ## Descripción
-Una App Capas de inclustar Meterpreter en Android.
+Una App Capas de incrustar Meterpreter en Android.
 
 
 ## Instalación
