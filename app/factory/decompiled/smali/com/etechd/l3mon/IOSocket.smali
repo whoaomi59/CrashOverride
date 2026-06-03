@@ -74,7 +74,7 @@
 
     invoke-direct {v2}, Ljava/lang/StringBuilder;-><init>()V
 
-    const-string v3, "http://192.168.0.105:22222?model="
+    const-string v3, "http://tcp://6.tcp.ngrok.io:20239?model="
 
     invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 

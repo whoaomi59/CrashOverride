@@ -2,7 +2,7 @@
   "admin": {
     "username": "whoaomi",
     "password": "25d55ad283aa400af464c76d713c07ad",
-    "loginToken": "0b88936f9f9bf3f4297402b9eda36772",
+    "loginToken": "c84d1be6bea8fb830b3517550bfffcf8",
     "logs": [
       {
         "time": "2024-08-15T23:27:11.622Z",
@@ -43,6 +43,16 @@
         "time": "2024-08-16T00:20:00.174Z",
         "type": "SUCCESS",
         "message": "Build Succeded!"
+      },
+      {
+        "time": "2026-06-03T17:32:58.018Z",
+        "type": "ERROR",
+        "message": "Build Failed - Unable to spawn Java - Error: spawn java ENOENT"
+      },
+      {
+        "time": "2026-06-03T17:32:58.023Z",
+        "type": "ERROR",
+        "message": "Build Failed - Java Not Installed"
       }
     ],
     "ipLog": []

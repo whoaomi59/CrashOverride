@@ -41,3 +41,23 @@ body {
 .logs .logitm.ERROR {
   color: #f03434;
 }
+/* ESTILOS NUEVOS */
+.bg-white {
+  background-color: #ffffff !important;
+}
+.bg-black {
+  background-color: black !important;
+}
+.color-white {
+  color: #fff;
+}
+.color-green {
+  color: green;
+}
+
+.menu-items {
+  text-align: center;
+  padding: 0.78571429em 0.92857143em;
+  margin: 0 0.35714286em;
+  align-self: center;
+}
